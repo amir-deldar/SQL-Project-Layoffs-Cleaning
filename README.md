@@ -154,4 +154,4 @@ NULLs in `total_laid_off`, `percentage_laid_off` and `funds_raised_millions` wer
 
 ## Author
 
-(Your name) • (GitHub profile link) • (LinkedIn link)
+(Amir Deldar) • (www.github.com/amir-deldar) • (www.linkedin.com/in/amirdeldar)
