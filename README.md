@@ -2,10 +2,10 @@
 
 ## Purpose
 This stage prepares a raw, self-reported layoffs dataset for reliable
-aggregation. The raw file (`data/raw/layoffs.csv`) contains ~2,300 records
+aggregation. The raw file (`data/raw data/layoffs.csv`) contains ~2,300 records
 with known quality issues: exact duplicates, inconsistent labels, text-typed
 dates, missing industry values, and rows with no usable layoff quantity.
-The output of this stage is `data/cleaned/layoffs_cleaned.csv`, which all
+The output of this stage is `data/processed data/layoffs_cleaned.csv`, which all
 downstream analysis depends on.
 
 ## Input / Output
