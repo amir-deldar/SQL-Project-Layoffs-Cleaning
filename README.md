@@ -104,24 +104,6 @@ NULLs in `total_laid_off`, `percentage_laid_off` and `funds_raised_millions` wer
 
 ---
 
-## How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone (repository-url)
-   ```
-2. In MySQL, create the schema and import the raw CSV into a table named `layoffs`:
-   ```sql
-   CREATE SCHEMA layoffs_dataset;
-   ```
-   Import `(path/to/layoffs.csv)` using the MySQL Workbench Table Data Import Wizard.
-3. Open and run `(path/to/Layoffs_Data_Cleaning.sql)` section by section. The final cleaned table is `layoffs_dataset.layoffs_copy2`.
-4. Export the cleaned table to `(path/to/layoffs_cleaned.csv)`.
-
-> **Note:** If you export from MySQL Workbench, make sure the result grid is not limited to 1,000 rows, or the export may be truncated.
-
----
-
 ## Results
 
 - Duplicate records removed
