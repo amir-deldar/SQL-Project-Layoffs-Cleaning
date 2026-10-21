@@ -11,7 +11,6 @@ A data cleaning project in **MySQL** that takes a raw, messy dataset of company 
 - [Dataset](#dataset)
 - [Tools and Techniques](#tools-and-techniques)
 - [Cleaning Workflow](#cleaning-workflow)
-- [How to Run](#how-to-run)
 - [Results](#results)
 - [Key Takeaways](#key-takeaways)
 - [Next Steps](#next-steps)
