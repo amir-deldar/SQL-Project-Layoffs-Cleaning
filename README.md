@@ -121,6 +121,8 @@ NULLs in `total_laid_off`, `percentage_laid_off` and `funds_raised_millions` wer
 
 ---
 
-## Author
+**Author: Amir Deldar**
 
-(Amir Deldar) • (www.github.com/amir-deldar) • (www.linkedin.com/in/amirdeldar)
+## 📬 Contact:
+
+[LinkedIn](https://www.linkedin.com/in/amirdeldar) · [GitHub](https://github.com/amir-deldar) · Email: <callmedeldar@gmail.com>
