@@ -4,18 +4,6 @@ A data cleaning project in **MySQL** that takes a raw, messy dataset of company 
 
 ---
 
-## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Repository Structure](#repository-structure)
-- [Dataset](#dataset)
-- [Tools and Techniques](#tools-and-techniques)
-- [Cleaning Workflow](#cleaning-workflow)
-- [Results](#results)
-- [Key Takeaways](#key-takeaways)
-- [Next Steps](#next-steps)
-
----
 
 ## Project Overview
 
