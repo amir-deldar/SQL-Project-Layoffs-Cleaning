@@ -18,16 +18,15 @@ To protect the original data, the raw table is never modified. All work is done 
 
 ---
 
-## Repository Structure
+## 🗂 Repository Structure
 
 ```
-.
-├── Layoffs_Data_Cleaning.sql    # Full cleaning script, commented step by step
-├── layoffs.csv                  # Raw dataset
-├── layoffs_cleaned.csv          # Cleaned dataset (exported after cleaning)
+├── data/
+│   └── raw data/layoffs.csv
+│   └── processed data/layoffs_cleaned.csv
+├── sql codes/Layoffs_Data_Cleaning.sql
 └── README.md
 ```
-
 File locations: `(sql codes/Layoffs_Data_Cleaning.sql)`, `(data/raw data/layoffs.csv)`, `(data/processed data/layoffs_cleaned.csv)`
 
 ---
@@ -123,6 +122,6 @@ NULLs in `total_laid_off`, `percentage_laid_off` and `funds_raised_millions` wer
 
 **Author: Amir Deldar**
 
-## 📬 Contact:
+**Contact:**
 
 [LinkedIn](https://www.linkedin.com/in/amirdeldar) · [GitHub](https://github.com/amir-deldar) · Email: <callmedeldar@gmail.com>
