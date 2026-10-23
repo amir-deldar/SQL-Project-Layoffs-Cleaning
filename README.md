@@ -24,7 +24,8 @@ To protect the original data, the raw table is never modified. All work is done 
 ├── data/
 │   └── raw data/layoffs.csv
 │   └── processed data/layoffs_cleaned.csv
-├── sql codes/Layoffs_Data_Cleaning.sql
+├── sql codes/
+│   └── Layoffs_Data_Cleaning.sql
 └── README.md
 ```
 File locations: `(sql codes/Layoffs_Data_Cleaning.sql)`, `(data/raw data/layoffs.csv)`, `(data/processed data/layoffs_cleaned.csv)`
