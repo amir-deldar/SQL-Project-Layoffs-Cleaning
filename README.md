@@ -48,6 +48,8 @@ The raw file contains **2,361 rows** and **9 columns**:
 | `country` | Country of the company |
 | `funds_raised_millions` | Total funds raised, in millions (USD) |
 
+> **Data source:** *(https://www.kaggle.com/datasets/swaptr/layoffs-2022)*
+
 ---
 
 ## Tools and Techniques
